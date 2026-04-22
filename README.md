@@ -1,6 +1,6 @@
 # Webscraping-dataproject
 # Multi-Source Web Data Extraction & Structuring Pipeline
-##VIDEO WALKTHROUGH
+## VIDEO WALKTHROUGH
 PART1:https://www.loom.com/share/860f67a3751748f6aabd29cc7e844e10
 PART2:https://www.loom.com/share/35130f9aad904f9ba3e656fee013a770
 ## Overview
