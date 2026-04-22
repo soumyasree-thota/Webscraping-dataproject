@@ -1,5 +1,8 @@
 # Webscraping-dataproject
 # Multi-Source Web Data Extraction & Structuring Pipeline
+##VIDEO WALKTHROUGH
+PART1:https://www.loom.com/share/860f67a3751748f6aabd29cc7e844e10
+PART2:https://www.loom.com/share/35130f9aad904f9ba3e656fee013a770
 ## Overview
 This project was developed during my internship and focuses on extracting and structuring data from multiple law firm websites with varying layouts and formats.
 The objective was to automate the process of collecting semi-structured web data and convert it into a consistent, analysis-ready dataset that can be used for reporting and decision-making.
