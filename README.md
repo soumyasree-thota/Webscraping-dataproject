@@ -12,9 +12,9 @@ The objective was to automate the process of collecting semi-structured web data
 
 ## Technologies Used
 - **Python**
-- **Playwright** (for dynamic web scraping)
-- **BeautifulSoup** (for HTML parsing)
-- **Pandas** (for data cleaning and structuring)
+- **Playwright** 
+- **BeautifulSoup** 
+- **Pandas** 
 
 
 ## Project Workflow
